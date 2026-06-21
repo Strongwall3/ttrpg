@@ -6,6 +6,9 @@ properties:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - publish
   - type: cards
     name: Domains
     filters:

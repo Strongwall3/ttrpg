@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Homepage
 ---
 Draft rules for a TTRPG.

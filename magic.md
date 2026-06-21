@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Magic
 ---
 In this game, **Practitioners** of magic create supernatural effects by combining the **domains** and **techniques** that they know.

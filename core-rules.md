@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Core Rules
 ---
 ## Action Roll

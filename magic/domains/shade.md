@@ -1,4 +1,5 @@
 ---
-title: Shade
 image: "[[shade.png]]"
+publish: true
+title: Shade
 ---
