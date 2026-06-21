@@ -1,0 +1,7 @@
+.trash/
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/updates.json
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/.cache/
+.obsidian/plugins/*/node_modules/
