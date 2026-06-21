@@ -1,3 +1,6 @@
+---
+title: Homepage
+---
 Draft rules for a TTRPG.
 
 Inspired by:
