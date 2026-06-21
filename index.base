@@ -1,0 +1,24 @@
+formulas:
+  title: file.asLink(title)
+properties:
+  formula.title:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: Domains
+    filters:
+      and:
+        - file.folder == "magic/domains"
+    order:
+      - formula.title
+    image: note.image
+    imageFit: contain
+  - type: table
+    name: Techniques
+    filters:
+      and:
+        - file.folder == "magic/techniques"
+    order:
+      - formula.title
